@@ -5,7 +5,7 @@ import Charts from './Charts';
 import ScoreSpectrumChart from "./ScoreSpectrumChart";
 
 // const file = '/assets/math.csv'; // Path to your CSV file
-const filePath = (subject) => `/assets/${subject}.csv`; // Dynamic path based on subject
+const filePath = (subject) => `/7a9/assets/${subject}.csv`; // Dynamic path based on subject
 
 const upArrow = (
   <svg width="24" height="24" viewBox="0 0 24 24" fill="#007BFF" xmlns="http://www.w3.org/2000/svg">
@@ -20,6 +20,7 @@ const downArrow = (
 );
 
 function formatName(fullName) {
+    if (!fullName) return ''; // Handle empty names
     const parts = fullName.trim().split(/\s+/);
     if (parts.length < 2) return fullName; // Not enough parts to format
 
@@ -45,20 +46,12 @@ function App() {
       delimiter: ",",
       download: true,
       complete: (results) => {
-        // console.log(results);
+        console.log(results);
 
         const parsedData = results.data.map(row => {
             row.score = parseFloat(row.score);
             row.name = formatName(row.name);
             return row;
-          // return {
-          //   stt: row[0],
-          //   code: row[1],
-          //   name: row[2],
-          //   dob: row[3],
-          //   class: row[4],
-          //   score: parseFloat(row[5]),
-          // };
         });
 
         console.log("Parsed Data:", parsedData);
