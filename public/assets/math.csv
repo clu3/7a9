@@ -1,0 +1,156 @@
+stt,code,name,class,score
+1,T7001,Đỗ Trung An,7A2,7.5
+2,T7002,Nguyễn Viết An,7A2,6
+3,T7003,Trần Lê Hà An,7A3,9
+4,T7004,Hà Huyền Anh,7A4,6.75
+5,T7005,Nguyễn Đức Anh,7A10,14.25
+6,T7006,Nguyễn Đức Anh,7A10,14.75
+7,T7007,Nguyễn Minh Anh,7A10,11.25
+8,T7008,Trần Hữu Anh,7A2,5.25
+9,T7011,Hồ Xuân Hoàng Bách,7A8,6.25
+10,T7012,Lương Gia Bách,7A6,11.25
+11,T7013,Nguyễn Hoàng Bách,7A2,7.5
+12,T7014,Trần Xuân Bách,7A3,6.5
+13,T7015,Đào Gia Bảo,6A1,1.25
+14,T7016,Đinh Gia Bảo,7A4,2
+15,T7017,Nguyễn Quyết Gia Bảo,7A9,9.25
+16,T7018,Bùi Phú Bình,7A3,5.5
+17,T7019,Phạm Hải Bình,7A8,12.5
+18,T7020,Đặng Bảo Châu,7A10,12
+19,T7021,Đinh Minh Châu,7A9,9.25
+20,T7022,Nguyễn Bảo Châu,7A10,12
+21,T7023,Nguyễn Khánh Chi,7A7,8
+22,T7024,Nguyễn Lê Quỳnh Chi,7A10,11.5
+23,T7025,Nguyễn Quỳnh Chi,7A5,10
+24,T7026,Phạm Mai Chi,7A1,6.5
+25,T7027,Đặng Quốc Chính,7A5,3.5
+26,T7028,Lê Hoàng Chương,7A8,9.5
+27,T7029,Nguyễn Xuân Cường,7A1,8
+28,T7030,Phạm Xuân Cường,7A1,17.25
+29,T7031,Vương Quốc Cường,7A10,13.5
+30,T7032,Chu Trí Đức,7A4,4.5
+31,T7033,Nguyễn Minh Đức,7A10,8.5
+32,T7034,Nguyễn Ngọc Đức,7A5,16.5
+33,T7035,Nguyễn Việt Đức,7A10,10
+34,T7036,Phan Trọng Đức,7A10,5
+35,T7037,Lê Chí Dũng,7A4,6.75
+36,T7038,Nguyễn Quốc Dũng,7A3,6
+37,T7039,Phạm Tuấn Dũng,7A6,8
+38,T7040,Phạm Ánh Dương,7A9,11
+39,T7041,Trịnh Tuấn Dương,7A9,15.5
+40,T7042,Nguyễn Linh Giang,7A10,2.5
+41,T7043,Phạm Ngọc Trường Giang,7A9,16
+42,T7044,Võ Thu Giang,7A6,5
+43,T7045,Đàm Duy Hải,7A5,-1
+44,T7046,Ngô Minh Hải,7A7,14
+45,T7047,Nguyễn Minh Hải,7A10,8.5
+46,T7048,Phạm Gia Hải,7A2,3.5
+47,T7049,Tô Vũ An Hải,7A8,6.75
+48,T7050,Trần Phú Ngọc Hải,7A4,10
+49,T7051,Trần Trung Hải,7A9,5.5
+50,T7052,Ngô Thanh Hằng,7A7,-1
+51,T7053,Nguyễn Minh Hạnh,7A1,9
+52,T7054,Đặng Công Hiếu,7A5,9.5
+53,T7055,Dương Trọng Hiếu,7A2,3.5
+54,T7056,Nguyễn Minh Hiếu,7A9,2.5
+55,T7057,Hồ Lê Huy Hoàng,7A3,7.25
+56,T7058,Nguyễn Đình Hoàng,7A3,15
+57,T7059,Nguyễn Lê An Hoàng,7A11,12
+58,T7060,Nguyễn Minh Hoàng,7A10,10.75
+59,T7061,Trần Bá Hưng,7A1,7.5
+60,T7062,Đặng Quốc Hưng,7A3,5
+61,T7063,Nguyễn Khải Hưng,7A5,7.5
+62,T7064,Nguyễn Quốc Hưng,7A1,2.5
+63,T7065,Phạm Đình Hưng,7A9,10
+64,T7067,Lê Nhật Huy,7A9,13.25
+65,T7068,Phạm Nhật Huy,7A4,6.25
+66,T7069,Trần Khánh Huy,7A9,9
+67,T7070,Trịnh Quang Huy,7A10,14.25
+68,T7071,Lê Đức An Khang,7A3,8
+69,T7072,Lê Trần Trí Khang,7A4,7.25
+70,T7073,Ngô Tuấn Khang,7A9,5
+71,T7074,Nguyễn Đức Minh Khang,7A10,8
+72,T7075,Nguyễn Minh Khang,7A2,5.25
+73,T7077,Đinh Bảo Khánh,7A8,10.25
+74,T7078,Nghiêm Huy Khánh,7A7,4.75
+75,T7079,Đào Đăng Khoa,7A6,4.5
+76,T7080,Nguyễn Đăng Khoa,7A4,11.75
+77,T7081,Nguyễn Tiến Khoa,7A11,4.5
+78,T7083,Lê Minh Khôi,7A8,6
+79,T7084,Mai Huy Khôi,7A10,9.5
+80,T7085,Phạm Đăng Khôi,7A10,12.5
+81,T7086,Phạm Việt Khôi,7A8,12.25
+82,T7087,Đỗ Tùng Lâm,7A9,5.5
+83,T7088,Nguyễn Giang Lâm,7A1,4.5
+84,T7089,Nguyễn Tùng Lâm,7A1,3.25
+85,T7090,Trần Đình Lâm,7A10,11.25
+86,T7092,Vũ Bảo Lâm,7A9,10
+87,T7093,Nguyễn Hoàng Liêm,7A4,6
+88,T7094,Lê Diệu Linh,7A8,7.5
+89,T7095,Nguyễn Diệu Linh,7A10,6.5
+90,T7096,Trần Thảo Linh,7A1,5.5
+91,T7097,Trần Thị Diệu Linh,7A9,8.25
+92,T7098,Đào Hoàng Long,7A11,12.75
+93,T7099,Nguyễn Hùng Long,7A10,6
+94,T7100,Phạm Hải Long,7A4,9.5
+95,T7101,Lê Thanh Ngọc Mai,7A10,15.5
+96,T7102,Bùi Bình Minh,7A4,7.5
+97,T7103,Bùi Quang Minh,7A1,8
+98,T7105,Đào Nhật Minh,7A5,6
+99,T7106,Đinh Hoàng Tuấn Minh,7A6,10.25
+100,T7107,Hà Minh,7A6,-1
+101,T7109,Lê Anh Minh,7A10,9.5
+102,T7110,Nguyễn Lê Nhật Minh,7A2,5.25
+103,T7111,Nguyễn Nhật Minh,7A10,10.75
+104,T7112,Nguyễn Quang Minh,7A9,7.75
+105,T7113,Nguyễn Thái Minh,7A1,5.75
+106,T7114,Nguyễn Thế Nhật Minh,7A11,7.25
+107,T7115,Phạm Hải Minh,7A9,7.5
+108,T7116,Phan Sỹ Nhật Minh,7A10,10.25
+109,T7117,Trần Quang Minh,7A8,10.25
+110,T7118,Trần Tuấn Minh,7A9,2.5
+111,T7119,Trần Tuấn Minh,7A2,4.75
+112,T7120,Vũ Đức Minh,7A9,6.25
+113,T7121,Vũ Đức Minh,7A6,12
+114,T7122,Vũ Dương Minh,7A8,6.5
+115,T7123,Vũ Quang Minh,7A4,6.25
+116,T7124,Giang Trà My,7A11,-1
+117,T7125,Nguyễn Hoàng My,7A9,15.5
+118,T7126,Nguyễn Năng Bảo Nam,7A9,13.5
+119,T7127,Trần Hoàng Nam,7A9,8
+120,T7128,Nguyễn Đăng Nghĩa,7A5,2
+121,T7129,Cao Khánh Ngọc,7A2,4
+122,T7130,Khương Khôi Nguyên,7A10,10
+123,T7131,Mai Hải Nguyên,7A9,10
+124,T7132,Trịnh Đăng Khôi Nguyên,7A8,4.5
+125,T7133,Đặng Hải Phong,7A4,9.5
+126,T7134,Hoàng Hải Phong,7A6,3
+127,T7135,Lê Nam Phong,7A3,8
+128,T7136,Lý Hiểu Phong,7A11,7.5
+129,T7137,Nguyễn Thế Hải Phong,7A5,6.5
+130,T7138,Vũ Hải Phong,7A4,12
+131,T7140,Nguyễn Hưng Phúc,7A1,8.25
+132,T7142,Nguyễn Bảo Phương,7A10,15.75
+133,T7144,Lê Minh Quân,7A4,4.5
+134,T7145,Nguyễn Hoàng Quân,7A6,9.25
+135,T7146,Đỗ Minh Quang,7A3,11
+136,T7147,Hoàng Minh Quang,7A2,7.5
+137,T7148,Nguyễn Tấn Sang,7A9,10.5
+138,T7149,Võ Minh Thắng,7A5,6.5
+139,T7150,Nguyễn Thanh Thảo,7A9,7.75
+140,T7151,Nguyễn Gia Thịnh,7A3,12.5
+141,T7154,Phạm Minh Tú,7A11,6.75
+142,T7155,Nguyễn Công Tuấn,7A8,3.75
+143,T7156,Hoàng Thanh Tùng,7A3,7.75
+144,T7157,Vũ Thanh Tùng,7A10,13.5
+145,T7158,Phan Nguyễn Phúc Uyên,7A2,7.5
+146,T7159,Nguyễn Trần Bảo Vân,7A8,7.25
+147,T7160,Trịnh Tường Vi,7A3,11
+148,T7161,Trần Ngọc Vi,7A7,4.75
+149,T7162,Vũ Đức Việt,7A9,6.5
+150,T7163,Bùi Nguyên Vũ,7A9,5.5
+151,T7164,Cao Thanh Vũ,7A1,6.5
+152,T7165,Tô Phi Vũ,7A10,9.25
+153,T7166,Trần Hoàng Vũ,7A8,6.5
+154,T7167,Trịnh Minh Vũ,7A6,5.5
+155,T7168,Nguyễn Minh Vương,7A1,7.75

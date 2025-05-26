@@ -1,0 +1,202 @@
+stt,code,name,class,score
+1,A7002,Hồ Ngọc Bảo An,7A11,7
+2,A7003,Trương Hạnh An,7A11,7.8
+3,A7004,Vũ Hà An,7A4,7.4
+4,A7006,Đặng Minh Anh,7A11,11.2
+5,A7007,Đặng Thái Anh,7A1,8.9
+6,A7008,Đào Trâm Anh,7A1,9.6
+7,A7009,Đào Trang Anh,7A6,7.2
+8,A7010,Hoàng Quỳnh Anh,7A11,11.4
+9,A7011,Nguyễn Đỗ Diệu Anh,7A8,7.7
+10,A7012,Nguyễn Đức Anh,7A10,10.3
+11,A7013,Nguyễn Đức Anh,7A1,9.1
+12,A7014,Nguyễn Minh Anh,7A10,8.2
+13,A7015,Nguyễn Thùy Anh,7A5,7.8
+14,A7016,Nguyễn Trang Anh,7A4,9
+15,A7017,Phùng Nguyệt Anh,7A5,7.6
+16,A7018,Thân Hà Anh,7A5,6.2
+17,A7019,Vũ Thục Anh,7A9,12.2
+18,A7020,Hồ Xuân Hoàng Bách,7A8,9.6
+19,A7021,Lương Gia Bách,7A6,7.3
+20,A7022,Nguyễn Gia Bách,7A3,7.2
+21,A7023,Nguyễn Gia Bách,7A10,13.2
+22,A7024,Đinh Gia Bảo,7A4,6
+23,A7026,Nguyễn Quyết Gia Bảo,7A9,6
+24,A7027,Vương Gia Bảo,7A4,12.6
+25,A7028,Lê Như Bình,7A4,8.6
+26,A7029,Lưu Giang Bình,7A2,8.6
+27,A7030,Nguyễn Bảo Châu,7A8,5.2
+28,A7031,Bùi Diệp Chi,7A6,7.8
+29,A7032,Bùi Ngọc Khánh Chi,7A3,9
+30,A7033,Đỗ Mai Chi,7A6,8.4
+31,A7034,Lê Nguyễn Quỳnh Chi,7A11,7.4
+32,A7036,Nguyễn Khánh Chi,7A6,10.4
+33,A7037,Nguyễn Khánh Chi,7A7,8.2
+34,A7038,Nguyễn Lê Quỳnh Chi,7A10,6.6
+35,A7039,Nguyễn Phạm Quỳnh Chi,7A2,10
+36,A7040,Nguyễn Quỳnh Chi,7A5,6.6
+37,A7041,Nguyễn Quỳnh Chi,7A7,6.2
+38,A7042,Phạm Khánh Chi,7A2,7
+39,A7043,Phạm Mai Chi,7A1,8
+40,A7044,Phạm Quỳnh Chi,7A11,6.4
+41,A7045,Nguyễn Xuân Cường,7A1,8.2
+42,A7046,Phạm Xuân Cường,7A1,10
+43,A7047,Vương Quốc Cường,7A10,6.4
+44,A7048,Đào Ngọc Diệp,7A1,11
+45,A7049,Lê Trần Ngọc Diệp,7A10,10
+46,A7050,Nguyễn Ngọc Diệp,7A2,9
+47,A7051,Võ Ngọc Diệp,7A5,9.6
+48,A7052,Chu Trí Đức,7A4,8.8
+49,A7053,Nguyễn Minh Đức,7A1,11.8
+50,A7054,Nguyễn Thái Đức,7A2,8.4
+51,A7055,Trần Hoàng Đức,6A1,10.6
+52,A7056,Trần Minh Đức,7A9,8.4
+53,A7057,Hồ Quang Dũng,7A6,6.2
+54,A7058,Lê Chí Dũng,7A4,11
+55,A7059,Nguyễn Quốc Dũng,7A3,10
+56,A7061,Ngô Thùy Dương,7A9,8.6
+57,A7062,Phạm Ánh Dương,7A5,9.2
+58,A7063,Nguyễn Đức Duy,7A8,6.8
+59,A7064,Trần Anh Duy,7A4,10.6
+60,A7065,Đặng Nguyễn Thanh Giang,7A11,10
+61,A7066,Đỗ Lam Giang,7A7,11
+62,A7067,Lê Châu Giang,7A11,9.2
+63,A7068,Nguyễn Hương Giang,7A3,8.8
+64,A7069,Đỗ Minh Hà,7A8,10.2
+65,A7070,Lê Thái Hà,7A6,5.2
+66,A7072,Nguyễn Ngọc Hà,7A1,8.3
+67,A7073,Nguyễn Vũ Ngọc Hà,7A8,7.4
+68,A7074,Bùi Nam Hải,7A8,11
+69,A7075,Đàm Duy Hải,7A5,-1
+70,A7076,Đàm Trung Hải,7A5,10.3
+71,A7077,Ngô Minh Hải,7A7,12.6
+72,A7078,Tề Vũ An Hải,7A8,9
+73,A7079,Đặng Gia Hân,7A5,7.8
+74,A7080,Lê Bảo Hân,7A7,11.2
+75,A7081,Nguyễn Gia Hân,7A8,7.6
+76,A7082,Nguyễn Minh Hằng,7A6,9.8
+77,A7083,Nguyễn Minh Hạnh,7A1,13.2
+78,A7084,Bùi Hiền Long Henry,7A7,13.6
+79,A7085,Cao Minh Hiền,7A8,8.2
+80,A7086,Đặng Minh Hiếu,7A3,10
+81,A7087,Nguyễn Lê An Hoàng,7A11,11.4
+82,A7088,Đặng Quốc Hưng,7A3,7.2
+83,A7089,Hoàng Minh Hưng,7A10,9.6
+84,A7090,Nguyễn Gia Hưng,7A7,8.8
+85,A7091,Nguyễn Quốc Hưng,7A1,8.6
+86,A7092,Phạm Quang Hưng,6A1,11.8
+87,A7093,Phạm Đào Ngân Hương,7A3,6.2
+88,A7095,Phạm Nhật Huy,7A4,11
+89,A7096,Trần Khánh Huy,7A9,8.6
+90,A7097,Trịnh Quang Huy,7A10,7.8
+91,A7098,Ngô Tuấn Khang,7A9,5.2
+92,A7099,Nguyễn Đức Minh Khang,7A10,9.8
+93,A7100,Đào Nguyên An Khanh,7A11,10.2
+94,A7101,Đỗ Ngọc Khanh,7A6,10.8
+95,A7102,Hoàng Nguyễn Vân Khanh,7A3,9.6
+96,A7103,Trần Nhã Khanh,7A1,7
+97,A7104,Bùi Nguyễn Hồng Khánh,7A6,5.8
+98,A7105,Hàn Minh Khánh,7A2,10.4
+99,A7106,Nguyễn Khánh,7A5,7
+100,A7107,Nguyễn Việt Anh Khoa,7A8,4
+101,A7108,Mai Huy Khôi,7A10,6.8
+102,A7109,Nguyễn Ngọc Anh Khôi,6A9,8.6
+103,A7110,Trần Minh Khôi,7A11,13.4
+104,A7111,Lã Phạm Minh Khuê,7A7,10.6
+105,A7112,Lê Đức Kiên,7A2,5.4
+106,A7113,Ngô Trung Kiên,6A8,6.8
+107,A7114,Lê Thanh Lâm,6A4,11.2
+108,A7115,Nguyễn Tùng Lâm,7A1,5.8
+109,A7116,Trần Khánh Lâm,7A2,10.2
+110,A7117,Vũ Bảo Lâm,7A9,9.2
+111,A7118,Vũ Hà Lê,7A8,7.4
+112,A7119,Bùi Phương Linh,7A9,13.4
+113,A7120,Đỗ Khánh Linh,7A7,7.4
+114,A7121,Hoàng Hương Linh,7A7,8.4
+115,A7122,Lương Khánh Linh,7A7,6.6
+116,A7123,Ngô Khánh Linh,7A3,10
+117,A7124,Nguyễn Diệu Linh,7A10,-1
+118,A7125,Nguyễn Hoàng Bảo Linh,7A8,9.2
+119,A7126,Phạm Đan Linh,7A6,12.4
+120,A7127,Phạm Phương Linh,7A10,10.6
+121,A7128,Phi Ngọc Linh,7A3,10.8
+122,A7129,Trần Hà Linh,7A6,6.4
+123,A7130,Trịnh Khánh Linh,7A11,10
+124,A7131,Vũ Nhật Tường Linh,7A11,10
+125,A7132,Vũ Trần Bảo Linh,7A7,9.6
+126,A7133,Nguyễn Phương Mai,7A3,8.8
+127,A7134,Phạm Phương Mai,7A7,8.2
+128,A7135,Phạm Gia Mẫn,7A3,5.2
+129,A7136,Khổng Thị Đông May,7A5,9.8
+130,A7137,Nguyễn Hồng Mi,7A7,5
+131,A7138,Đinh Hoàng Tuấn Minh,7A6,8.6
+132,A7139,Hà Minh,7A6,9.8
+133,A7140,Hoàng Nhật Minh,7A4,11.6
+134,A7142,Khuất Khánh Minh,7A6,9
+135,A7143,Lê Anh Minh,7A10,7
+136,A7144,Nguyễn Bá Hoàng Minh,7A6,10.2
+137,A7145,Nguyễn Hải Minh,7A8,8
+138,A7146,Nguyễn Nhật Minh,7A7,6.2
+139,A7147,Nguyễn Thái Minh,7A1,7.8
+140,A7148,Nguyễn Thế Nhật Minh,7A11,12.8
+141,A7150,Phạm Hải Minh,7A9,9.2
+142,A7151,Phạm Lệ Minh,7A1,10
+143,A7152,Phạm Ngọc Nhật Minh,7A10,13.9
+144,A7153,Phạm Tuấn Minh,7A8,11.2
+145,A7154,Phi Ngọc Minh,7A6,9
+146,A7155,Trần Tuấn Minh,7A9,9
+147,A7156,Võ Đức Minh,7A3,7
+148,A7157,Vũ Hoàng Minh,7A4,9.8
+149,A7158,Vũ Nguyệt Minh,7A10,8.6
+150,A7159,Nguyễn Thị Trà My,7A2,8.8
+151,A7160,Vũ Lê Huyền My,7A1,5.2
+152,A7161,Lê Hải Nam,6A2,14.6
+153,A7162,Nguyễn Hoàng Phương Nam,7A7,10
+154,A7163,Nguyễn Năng Bảo Nam,7A9,8.8
+155,A7164,Phạm Hoàng Nhật Nam,7A8,13.4
+156,A7165,Phạm Nhật Nam,7A1,9.2
+157,A7166,Phạm Tuấn Nam,7A9,10.2
+158,A7167,Trần Hoàng Nam,7A9,6.2
+159,A7168,Mai Bùi Phương Nga,7A4,9.8
+160,A7169,Nguyễn Phương Ngân,7A8,10
+161,A7170,Trần Kim Ngân,7A6,8
+162,A7171,Trần Lê Bảo Ngân,7A5,7.6
+163,A7172,Cao Khánh Ngọc,7A2,7.2
+164,A7173,Hoàng Khánh Ngọc,7A11,6.4
+165,A7176,Triệu Minh Bảo Ngọc,7A3,5.6
+166,A7177,Đào Thiện Nguyên,7A7,11
+167,A7178,Đỗ Phúc Nguyên,7A6,7.6
+168,A7179,Lại Khôi Nguyên,7A8,9.2
+169,A7180,Nguyễn Ngọc Uyên Nhi,7A11,7
+170,A7181,Phí Ngọc Nhi,7A2,11.2
+171,A7182,Lý Hiểu Phong,7A11,12.6
+172,A7183,Nguyễn Hải Phong,7A11,12.2
+173,A7184,Nguyễn Thế Hải Phong,7A5,6.2
+174,A7185,Vũ Hải Phong,7A4,9.2
+175,A7186,Hoàng Thiên Phúc,7A11,12.2
+176,A7187,Nguyễn Hưng Phúc,7A1,7.8
+177,A7188,Tăng Nguyên Phúc,7A7,8.8
+178,A7189,Lê Hà Phương,7A1,8.3
+179,A7190,Nguyễn Bảo Phương,7A10,8.4
+180,A7191,Nguyễn Song Khánh Phượng,7A3,9.8
+181,A7192,Lê Minh Quân,7A4,8
+182,A7193,Nguyễn Hoàng Quân,7A6,8.8
+183,A7194,Vũ Hoàng Quân,7A11,8
+184,A7195,Vũ Bảo Sơn,7A8,9.8
+185,A7196,Trần Duy Thái,7A2,11.4
+186,A7197,Nguyễn Quang Thắng,6A9,8.2
+187,A7198,Lưu Hiền Thanh,7A8,11.6
+188,A7199,Nguyễn Phương Thảo,6A11,12.4
+189,A7200,Hà Vũ Anh Thư,7A1,11.6
+190,A7201,Nghiêm Xuân Minh Thư,7A6,7.4
+191,A7202,Nguyễn Huyền Thư,7A6,6.6
+192,A7203,Phùng Thị Linh Thư,7A7,8.2
+193,A7204,Lê Hà An Thy,7A9,12
+194,A7205,Hồ Quỳnh Trang,7A9,9.8
+195,A7206,Nguyễn Kiều Trang,7A8,9.4
+196,A7207,Nguyễn Văn Trang,7A11,10.8
+197,A7208,Trần Ngọc Khuê Tú,7A10,7.4
+198,A7209,Nguyễn Công Tuấn,7A8,10
+199,A7210,Đào Quang Tùng,7A6,10.4
+200,A7211,Vũ Thanh Tùng,7A10,11.6
+201,A7212,Lê Thanh Uyên,7A3,7.8
