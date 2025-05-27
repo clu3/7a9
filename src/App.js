@@ -3,6 +3,7 @@ import React, { useEffect, useState } from 'react';
 import List from "./List";
 import Charts from './Charts';
 import ScoreSpectrumChart from "./ScoreSpectrumChart";
+import deepClone from "clone-deep";
 
 const filePath = (subject) => `/7a9/assets/${subject}.csv`;
 
@@ -136,7 +137,7 @@ function App() {
           {ascending ? upArrow : downArrow}
         </span>
             </h2>
-            <List students={students} classFilter={classFilter} filteredStudent={filteredStudent} />
+            <List students={deepClone(students)} classFilter={classFilter} filteredStudent={filteredStudent} />
         </div>
     );
 }
